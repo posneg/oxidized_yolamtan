@@ -1,0 +1,7 @@
+[package]
+name = "oxidized_yolamtan"
+version = "0.1.0"
+authors = ["Posneg"]
+edition = "2018"
+
+[dependencies]
